@@ -1,0 +1,3 @@
+command_parser.c:22:6:command_parser_fsm	4	static
+command_parser.c:47:15:CompareCommand	16	static
+command_parser.c:51:6:clerCommand	16	static

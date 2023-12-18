@@ -1,0 +1,17 @@
+software_timer.c:28:6:clearTimer0	4	static
+software_timer.c:32:6:clearTimer1	4	static
+software_timer.c:36:6:clearTimer2	4	static
+software_timer.c:40:6:clearTimer3	4	static
+software_timer.c:45:6:clearTimer4	4	static
+software_timer.c:49:6:clearTimer5	4	static
+software_timer.c:53:6:clearTimer6	4	static
+software_timer.c:58:6:stopTimer0	4	static
+software_timer.c:63:6:stopTimer1	4	static
+software_timer.c:68:6:setTimer0	16	static
+software_timer.c:72:6:setTimer1	16	static
+software_timer.c:77:6:setTimer2	16	static
+software_timer.c:82:6:setTimer3	16	static
+software_timer.c:87:6:setTimer4	16	static
+software_timer.c:92:6:setTimer5	16	static
+software_timer.c:96:6:setTimer6	16	static
+software_timer.c:101:6:timerRun	4	static
